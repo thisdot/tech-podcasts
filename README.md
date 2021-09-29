@@ -16,6 +16,8 @@
 [React Podcast](https://twitter.com/ReactPodcast)
 [Syntax](https://twitter.com/syntaxfm)<br>
 [Codepen Radio](https://blog.codepen.io/radio/)<br>
+[The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
+[Web Rush](https://twitter.com/web_rush)<br>
 
 <h3> General Technology & Web Development Podcasts </h3>
 
@@ -39,8 +41,13 @@
 [Software Engineering Unlocked Podcast](https://twitter.com/se_unlocked)<br>
 [Start Here: Web Development](https://podcasts.apple.com/us/podcast/start-here-web-development/id898026456)<br>
 [The Web Ahead](https://twitter.com/thewebahead)<br>
-
-
+[PodRocket](https://podrocket.logrocket.com/)<br>
+[Toolsday](https://twitter.com/toolsday?lang=en)<br>
+[Code Chefs](https://twitter.com/codechefsdev)<br>
+[Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing/youve-got-apple-questions-weve-got-answers/bc9a5d51-6d60-4167-91f7-ddc37a43bb61)<br>
+[Tomorrow's Tech Today](https://podcasts.apple.com/gb/podcast/tomorrows-tech-today/id1562152429)<br>
+[Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
+[Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
 
 <h3> Other Technology-Specific Podcasts </h3>
 
@@ -58,14 +65,3 @@
 [Ladybug Podcast](https://twitter.com/LadybugPodcast)<br>
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
 [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)<br>
-
-
-[PodRocket](https://podrocket.logrocket.com/)<br>
-[Toolsday](https://twitter.com/toolsday?lang=en)<br>
-[The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
-[Web Rush](https://twitter.com/web_rush)<br>
-[Code Chefs](https://twitter.com/codechefsdev)<br>
-[Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing/youve-got-apple-questions-weve-got-answers/bc9a5d51-6d60-4167-91f7-ddc37a43bb61)<br>
-[Tomorrow's Tech Today](https://podcasts.apple.com/gb/podcast/tomorrows-tech-today/id1562152429)<br>
-[Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
-[Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
