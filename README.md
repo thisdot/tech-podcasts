@@ -7,7 +7,10 @@
 [JavaScript Jabber](https://twitter.com/JSJabber)<br>
 [Adventures In Angular](https://twitter.com/angularpodcast)<br>
 [That's My JAMstack](https://thatsmyjamstack.com/)<br>
+
 [Modern Web Podcast](https://twitter.com/moderndotweb)<br>
+Description: xyz
+
 [JavaScript Air](https://javascriptair.com/)<br>
 [React Native Radio](https://reactnativeradio.com/)<br>
 [OpenHive.JS](https://anchor.fm/openhivejs)<br>
