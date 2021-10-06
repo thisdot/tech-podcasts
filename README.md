@@ -1,3 +1,11 @@
+# Welcome 
+
+Welcome to the This Dot Podcasts repository. Here you will find an array of different types of podcasts.
+
+This repository serves as a collection of different podcasts all related to technology and development.
+
+If you have a podcast that you would like to add to the list, please open a PR with the name of the podcast and a link to it, as well as which category you think it best belongs! We look forward to seeing what you're listening to.
+
 # Podcasts
 
 <h3> JavaScript Podcasts </h3>
