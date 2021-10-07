@@ -1,10 +1,12 @@
 # Welcome 
 
-Welcome to the This Dot Podcasts repository. Here you will find an array of different types of podcasts.
+Welcome to the This Dot Podcasts repository. Here you can find a set of different types of podcasts.
 
 This repository serves as a collection of different podcasts all related to technology and development.
 
-If you have a podcast that you would like to add to the list, please open a PR with the name of the podcast and a link to it, as well as which category you think it best belongs! We look forward to seeing what you're listening to.
+If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
+
+ We look forward to seeing what you're listening to.
 
 # Podcasts
 
@@ -17,7 +19,6 @@ If you have a podcast that you would like to add to the list, please open a PR w
 [That's My JAMstack](https://thatsmyjamstack.com/)<br>
 
 [Modern Web Podcast](https://twitter.com/moderndotweb)<br>
-Description: xyz
 
 [JavaScript Air](https://javascriptair.com/)<br>
 [React Native Radio](https://reactnativeradio.com/)<br>
