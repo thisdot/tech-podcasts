@@ -81,6 +81,6 @@ If you would like to add to the list, please see our [contribution guidelines](.
 <h3> Blockchain Technology Podcasts </h3>  
 
 [Epicenter](https://epicenter.tv/episodes/)
-[Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
-[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)
+[Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)<br>
+[The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)<br>
 [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
