@@ -1,3 +1,13 @@
+# Welcome 
+
+Welcome to the This Dot Podcasts repository. Here you can find a set of different types of podcasts.
+
+This repository serves as a collection of different podcasts all related to technology and development.
+
+If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
+
+ We look forward to seeing what you're listening to.
+
 # Podcasts
 
 <h3> JavaScript Podcasts </h3>
@@ -9,7 +19,6 @@
 [That's My JAMstack](https://thatsmyjamstack.com/)<br>
 
 [Modern Web Podcast](https://twitter.com/moderndotweb)<br>
-Description: xyz
 
 [JavaScript Air](https://javascriptair.com/)<br>
 [React Native Radio](https://reactnativeradio.com/)<br>
