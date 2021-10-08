@@ -10,8 +10,9 @@ The current categories are:
 
 # To Contribute
 
-1. Fork the repository
-2. Update the README.md with your podcast suggestion(s)
+1. Check the README to see if your suggestion exists or not
+2. Fork the repository
+3. Update the README.md with your podcast suggestion(s)
     - Append the title and link to the podcast, to the list in the appropriate category
 4. Open a PR directed to our main branch
 5. We will either approve it and merge, or add them manually
