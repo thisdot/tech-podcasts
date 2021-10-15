@@ -71,6 +71,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [HTML All The Things - Web Development, Web Design, Small Business](https://podcasts.apple.com/us/podcast/html-all-the-things-web-development-web-design-small/id1412209136)<br>
 [AdventuresInDotNet](https://twitter.com/dotNET_Podcast)<br>
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
+[Coding Blocks](https://www.codingblocks.net/)<br>
 
 <h3> Women in Tech Podcasts </h3>
 
