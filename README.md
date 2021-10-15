@@ -60,6 +60,9 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [Tomorrow's Tech Today](https://podcasts.apple.com/gb/podcast/tomorrows-tech-today/id1562152429)<br>
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
+[We Belong Here](https://webelongpodcast.com/)<br>
+[BaseCS](https://www.codenewbie.org/basecs)<br>
+[Shop Talk Show](https://shoptalkshow.com/)<br>
 
 <h3> Other Technology-Specific Podcasts </h3>
 
@@ -72,6 +75,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [AdventuresInDotNet](https://twitter.com/dotNET_Podcast)<br>
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
 [Coding Blocks](https://www.codingblocks.net/)<br>
+[Linear Digressions](http://lineardigressions.com/)<br>
 
 <h3> Women in Tech Podcasts </h3>
 
