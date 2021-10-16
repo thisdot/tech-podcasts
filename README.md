@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome
 
 Welcome to the This Dot Podcasts repository. Here you can find a set of different types of podcasts.
 
@@ -8,9 +8,21 @@ If you would like to add to the list, please see our [contribution guidelines](.
 
  We look forward to seeing what you're listening to.
 
+<a name="toc"></a>
+# Table of Contents
+
+Podcast Categories
+------------ |
+[JavaScript Podcasts](#JavaScript-Podcasts) 
+[General Technology & Web Development Podcasts](#General-Technology)
+[Other Technology-Specific Podcasts](#other-technology) 
+[Women in Tech Podcasts](#women-in-tech)
+[Blockchain Technology Podcasts](#Blockchain)
+
+
 # Podcasts
 
-<h3> JavaScript Podcasts </h3>
+<h3> <a name="JavaScript-Podcasts"></a>JavaScript Podcasts </h3>
 
 [JS Party Podcast](https://twitter.com/JSPartyFM)<br>
 [Views on Vue](https://twitter.com/viewsonvue)<br>
@@ -31,7 +43,9 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
 [Web Rush](https://twitter.com/web_rush)<br>
 
-<h3> General Technology & Web Development Podcasts </h3>
+[table of contents](#toc)
+
+<h3> <a name="General-Technology"></a> General Technology & Web Development Podcasts </h3>
 
 [Running in Production](https://runninginproduction.com/podcast/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
@@ -61,7 +75,9 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
 
-<h3> Other Technology-Specific Podcasts </h3>
+[table of contents](#toc)
+
+<h3> <a name="other-technology"></a> Other Technology-Specific Podcasts </h3>
 
 [PHPRoundtable](https://twitter.com/PHPRoundtable)<br>
 [Elixir Mix](https://twitter.com/elixir_mix)<br>
@@ -73,15 +89,21 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
 [Coding Blocks](https://www.codingblocks.net/)<br>
 
-<h3> Women in Tech Podcasts </h3>
+[table of contents](#toc)
+
+<h3> <a name="women-in-tech"></a> Women in Tech Podcasts </h3>
 
 [Ladybug Podcast](https://twitter.com/LadybugPodcast)<br>
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
 [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)<br>
 
-<h3> Blockchain Technology Podcasts </h3>  
+[table of contents](#toc)
+
+<h3> <a name="Blockchain"></a> Blockchain Technology Podcasts </h3>  
 
 [Epicenter](https://epicenter.tv/episodes/)<br>
 [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)<br>
 [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)<br>
 [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
+
+[table of contents](#toc)
