@@ -10,28 +10,34 @@ We look forward to seeing what you're listening to.
 
 # Podcasts
 
-<h3> JavaScript Podcasts </h3>
+### General JavaScript Podcasts
 
 [JS Party Podcast](https://twitter.com/JSPartyFM)<br>
-[Views on Vue](https://twitter.com/viewsonvue)<br>
 [JavaScript Jabber](https://twitter.com/JSJabber)<br>
-[Adventures In Angular](https://twitter.com/angularpodcast)<br>
+
 [That's My JAMstack](https://thatsmyjamstack.com/)<br>
-
 [Modern Web Podcast](https://twitter.com/moderndotweb)<br>
-
 [JavaScript Air](https://javascriptair.com/)<br>
-[React Native Radio](https://reactnativeradio.com/)<br>
 [OpenHive.JS](https://anchor.fm/openhivejs)<br>
-[Angular Air](https://twitter.com/angularair?lang=en)<br>
 [Front End Happy Hour](https://twitter.com/FrontEndHH)<br>
-[React Podcast](https://twitter.com/ReactPodcast)
 [Syntax](https://twitter.com/syntaxfm)<br>
 [Codepen Radio](https://blog.codepen.io/radio/)<br>
 [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
 [Web Rush](https://twitter.com/web_rush)<br>
 
-<h3> General Technology & Web Development Podcasts </h3>
+### React Podcasts 
+[React Podcast](https://twitter.com/ReactPodcast)
+[React Native Radio](https://reactnativeradio.com/)<br>
+
+### Angular Podcasts
+[Angular Air](https://twitter.com/angularair?lang=en)<br>
+[Adventures In Angular](https://twitter.com/angularpodcast)<br>
+
+### Vue Podcasts
+[Views on Vue](https://twitter.com/viewsonvue)<br>
+
+
+### General Technology & Web Development Podcasts 
 
 [Running in Production](https://runninginproduction.com/podcast/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
@@ -61,8 +67,12 @@ We look forward to seeing what you're listening to.
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
 [CodeNewbie Podcast](https://www.codenewbie.org/podcast)<br>
+[We Belong Here](https://webelongpodcast.com/)<br>
+[BaseCS](https://www.codenewbie.org/basecs)<br>
+[Shop Talk Show](https://shoptalkshow.com/)<br>
 
-<h3> Other Technology-Specific Podcasts </h3>
+
+### Other Technology-Specific Podcasts 
 
 [PHPRoundtable](https://twitter.com/PHPRoundtable)<br>
 [Elixir Mix](https://twitter.com/elixir_mix)<br>
@@ -75,14 +85,15 @@ We look forward to seeing what you're listening to.
 [Remote Ruby](https://remoteruby.transistor.fm/episodes)<br>
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
 [Coding Blocks](https://www.codingblocks.net/)<br>
+[Linear Digressions](http://lineardigressions.com/)<br>
 
-<h3> Women in Tech Podcasts </h3>
+### Women in Tech Podcasts
 
 [Ladybug Podcast](https://twitter.com/LadybugPodcast)<br>
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
 [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)<br>
 
-<h3> Blockchain Technology Podcasts </h3>
+### Blockchain Technology Podcasts 
 
 [Epicenter](https://epicenter.tv/episodes/)<br>
 [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)<br>
