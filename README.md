@@ -10,26 +10,32 @@ If you would like to add to the list, please see our [contribution guidelines](.
 
 # Podcasts
 
-<h3> JavaScript Podcasts </h3>
+<h3> General JavaScript Podcasts </h3>
 
 [JS Party Podcast](https://twitter.com/JSPartyFM)<br>
-[Views on Vue](https://twitter.com/viewsonvue)<br>
 [JavaScript Jabber](https://twitter.com/JSJabber)<br>
-[Adventures In Angular](https://twitter.com/angularpodcast)<br>
+
 [That's My JAMstack](https://thatsmyjamstack.com/)<br>
-
 [Modern Web Podcast](https://twitter.com/moderndotweb)<br>
-
 [JavaScript Air](https://javascriptair.com/)<br>
-[React Native Radio](https://reactnativeradio.com/)<br>
 [OpenHive.JS](https://anchor.fm/openhivejs)<br>
-[Angular Air](https://twitter.com/angularair?lang=en)<br>
 [Front End Happy Hour](https://twitter.com/FrontEndHH)<br>
-[React Podcast](https://twitter.com/ReactPodcast)
 [Syntax](https://twitter.com/syntaxfm)<br>
 [Codepen Radio](https://blog.codepen.io/radio/)<br>
 [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
 [Web Rush](https://twitter.com/web_rush)<br>
+
+<h3> React Podcasts </h3>
+[React Podcast](https://twitter.com/ReactPodcast)
+[React Native Radio](https://reactnativeradio.com/)<br>
+
+<h3> Angular Podcasts </h3>
+[Angular Air](https://twitter.com/angularair?lang=en)<br>
+[Adventures In Angular](https://twitter.com/angularpodcast)<br>
+
+<h3> Vue Podcasts </h3>
+[Views on Vue](https://twitter.com/viewsonvue)<br>
+
 
 <h3> General Technology & Web Development Podcasts </h3>
 
