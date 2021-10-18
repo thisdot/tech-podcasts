@@ -66,6 +66,7 @@ We look forward to seeing what you're listening to.
 [Tomorrow's Tech Today](https://podcasts.apple.com/gb/podcast/tomorrows-tech-today/id1562152429)<br>
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
+[The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)<br>
 [CodeNewbie Podcast](https://www.codenewbie.org/podcast)<br>
 [We Belong Here](https://webelongpodcast.com/)<br>
 [BaseCS](https://www.codenewbie.org/basecs)<br>
