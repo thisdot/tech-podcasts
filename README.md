@@ -10,7 +10,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
 
 # Podcasts
 
-<h3> General JavaScript Podcasts </h3>
+### General JavaScript Podcasts
 
 [JS Party Podcast](https://twitter.com/JSPartyFM)<br>
 [JavaScript Jabber](https://twitter.com/JSJabber)<br>
@@ -25,19 +25,19 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
 [Web Rush](https://twitter.com/web_rush)<br>
 
-<h3> React Podcasts </h3>
+### React Podcasts 
 [React Podcast](https://twitter.com/ReactPodcast)
 [React Native Radio](https://reactnativeradio.com/)<br>
 
-<h3> Angular Podcasts </h3>
+### Angular Podcasts
 [Angular Air](https://twitter.com/angularair?lang=en)<br>
 [Adventures In Angular](https://twitter.com/angularpodcast)<br>
 
-<h3> Vue Podcasts </h3>
+### Vue Podcasts
 [Views on Vue](https://twitter.com/viewsonvue)<br>
 
 
-<h3> General Technology & Web Development Podcasts </h3>
+### General Technology & Web Development Podcasts 
 
 [Running in Production](https://runninginproduction.com/podcast/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
@@ -66,9 +66,12 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [Tomorrow's Tech Today](https://podcasts.apple.com/gb/podcast/tomorrows-tech-today/id1562152429)<br>
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
-<a href="https://www.codenewbie.org/podcast">CodeNewbie Podcast</a><br>
+[We Belong Here](https://webelongpodcast.com/)<br>
+[BaseCS](https://www.codenewbie.org/basecs)<br>
+[Shop Talk Show](https://shoptalkshow.com/)<br>
 
-<h3> Other Technology-Specific Podcasts </h3>
+
+### Other Technology-Specific Podcasts 
 
 [PHPRoundtable](https://twitter.com/PHPRoundtable)<br>
 [Elixir Mix](https://twitter.com/elixir_mix)<br>
@@ -79,14 +82,15 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [AdventuresInDotNet](https://twitter.com/dotNET_Podcast)<br>
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
 [Coding Blocks](https://www.codingblocks.net/)<br>
+[Linear Digressions](http://lineardigressions.com/)<br>
 
-<h3> Women in Tech Podcasts </h3>
+### Women in Tech Podcasts
 
 [Ladybug Podcast](https://twitter.com/LadybugPodcast)<br>
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
 [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)<br>
 
-<h3> Blockchain Technology Podcasts </h3>  
+### Blockchain Technology Podcasts 
 
 [Epicenter](https://epicenter.tv/episodes/)<br>
 [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)<br>
