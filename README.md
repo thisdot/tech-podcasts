@@ -8,10 +8,21 @@ If you would like to add to the list, please see our [contribution guidelines](.
 
 We look forward to seeing what you're listening to.
 
+<a name="toc"></a>
+# Table of Contents
+
+Podcast Categories
+------------ |
+[JavaScript Podcasts](#JavaScript-Podcasts) 
+[General Technology & Web Development Podcasts](#General-Technology)
+[Other Technology-Specific Podcasts](#other-technology) 
+[Women in Tech Podcasts](#women-in-tech)
+[Blockchain Technology Podcasts](#Blockchain)
+
+
 # Podcasts
 
 ### General JavaScript Podcasts
-
 [JS Party Podcast](https://twitter.com/JSPartyFM)<br>
 [JavaScript Jabber](https://twitter.com/JSJabber)<br>
 
@@ -24,6 +35,8 @@ We look forward to seeing what you're listening to.
 [Codepen Radio](https://blog.codepen.io/radio/)<br>
 [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
 [Web Rush](https://twitter.com/web_rush)<br>
+
+[table of contents](#toc)
 
 ### React Podcasts 
 [React Podcast](https://twitter.com/ReactPodcast)
@@ -38,7 +51,6 @@ We look forward to seeing what you're listening to.
 
 
 ### General Technology & Web Development Podcasts 
-
 [Running in Production](https://runninginproduction.com/podcast/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
 [Back to Front Show](https://twitter.com/backtofrontshow)<br>
@@ -73,6 +85,8 @@ We look forward to seeing what you're listening to.
 [Shop Talk Show](https://shoptalkshow.com/)<br>
 
 
+[table of contents](#toc)
+
 ### Other Technology-Specific Podcasts 
 
 [PHPRoundtable](https://twitter.com/PHPRoundtable)<br>
@@ -88,11 +102,15 @@ We look forward to seeing what you're listening to.
 [Coding Blocks](https://www.codingblocks.net/)<br>
 [Linear Digressions](http://lineardigressions.com/)<br>
 
+[table of contents](#toc)
+
 ### Women in Tech Podcasts
 
 [Ladybug Podcast](https://twitter.com/LadybugPodcast)<br>
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
 [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)<br>
+
+[table of contents](#toc)
 
 ### Blockchain Technology Podcasts 
 
@@ -100,3 +118,5 @@ We look forward to seeing what you're listening to.
 [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)<br>
 [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)<br>
 [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
+
+[table of contents](#toc)
