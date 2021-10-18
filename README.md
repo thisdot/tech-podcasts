@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome
 
 Welcome to the This Dot Podcasts repository. Here you can find a set of different types of podcasts.
 
@@ -6,7 +6,7 @@ This repository serves as a collection of different podcasts all related to tech
 
 If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
 
- We look forward to seeing what you're listening to.
+We look forward to seeing what you're listening to.
 
 # Podcasts
 
@@ -66,6 +66,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [Tomorrow's Tech Today](https://podcasts.apple.com/gb/podcast/tomorrows-tech-today/id1562152429)<br>
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
+[CodeNewbie Podcast](https://www.codenewbie.org/podcast)<br>
 [We Belong Here](https://webelongpodcast.com/)<br>
 [BaseCS](https://www.codenewbie.org/basecs)<br>
 [Shop Talk Show](https://shoptalkshow.com/)<br>
@@ -80,6 +81,8 @@ If you would like to add to the list, please see our [contribution guidelines](.
 [Adventures in Machine Learning](https://twitter.com/podcast_ml)<br>
 [HTML All The Things - Web Development, Web Design, Small Business](https://podcasts.apple.com/us/podcast/html-all-the-things-web-development-web-design-small/id1412209136)<br>
 [AdventuresInDotNet](https://twitter.com/dotNET_Podcast)<br>
+[The Ruby on Rails Podcast](https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158)<br>
+[Remote Ruby](https://remoteruby.transistor.fm/episodes)<br>
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
 [Coding Blocks](https://www.codingblocks.net/)<br>
 [Linear Digressions](http://lineardigressions.com/)<br>
