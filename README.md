@@ -83,6 +83,7 @@ Podcast Categories
 [We Belong Here](https://webelongpodcast.com/)<br>
 [BaseCS](https://www.codenewbie.org/basecs)<br>
 [Shop Talk Show](https://shoptalkshow.com/)<br>
+[Tech Jr Podcast](https://techjr.dev/)</br>
 
 
 [table of contents](#toc)
