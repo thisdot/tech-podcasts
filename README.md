@@ -1,8 +1,8 @@
 # Welcome
 
-Welcome to the This Dot Podcasts repository. Here you can find a set of different types of podcasts.
+Welcome to the This Dot Podcasts repository, here we hope you with a wide variety of tech-based podcasts.
 
-This repository serves as a collection of different podcasts all related to technology and development.
+This repository serves as a collection of general and specific podcasts all related to technology and development.
 
 If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
 
@@ -25,7 +25,7 @@ Podcast Categories
 ### General JavaScript Podcasts
 
 [Codepen Radio](https://blog.codepen.io/radio/)<br>
-[Front End Happy Hour](https://twitter.com/FrontEndHH)<br>
+[Front End Happy Hour](https://www.frontendhappyhour.com/)<br>
 [JavaScript Air](https://javascriptair.com/)<br>
 [JavaScript Jabber](https://twitter.com/JSJabber)<br>
 [JS Party Podcast](https://twitter.com/JSPartyFM)<br>
@@ -35,14 +35,18 @@ Podcast Categories
 [That's My JAMstack](https://thatsmyjamstack.com/)<br>
 [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)<br>
 [Web Rush](https://twitter.com/web_rush)<br>
+[The Vanilla Js Podcast ](https://vanillajspodcast.com/)<br>
+[JS Party Podcast](https://changelog.com/jsparty)<br>
 
 
 [table of contents](#toc)
 
 ### React Podcasts
 
-[React Podcast](https://twitter.com/ReactPodcast)<br>
+[React Podcast](https://reactpodcast.simplecast.com/)<br>
 [React Native Radio](https://reactnativeradio.com/)<br>
+[React Wednesdays](https://www.telerik.com/react-wednesdays)<br>
+
 
 ### Angular Podcasts
 
@@ -104,6 +108,7 @@ Podcast Categories
 [Remote Ruby](https://remoteruby.transistor.fm/episodes)<br>
 [Ruby Rogues](https://twitter.com/rubyrogues)<br>
 [The Ruby on Rails Podcast](https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158)<br>
+[Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)<br>
 
 [table of contents](#toc)
 
@@ -112,6 +117,7 @@ Podcast Categories
 [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)<br>
 [Ladybug Podcast](https://twitter.com/LadybugPodcast)<br>
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
+[Women In Tech Show ](https://thewomenintechshow.com/)<br>
 
 [table of contents](#toc)
 
@@ -120,11 +126,6 @@ Podcast Categories
 [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)<br>
 [Epicenter](https://epicenter.tv/episodes/)<br>
 [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)<br>
-[Unchained](https://itunes.apple.com/us/podcast/id1123922160)
+[Unchained](https://itunes.apple.com/us/podcast/id1123922160)<br>
 
 [table of contents](#toc)
-
-<!-- TODO -->
-<!-- Find more podcasts for each list and add to each set
-Alphabetise and double check links to each podcast
-Improve formating by adding design ???? -->
