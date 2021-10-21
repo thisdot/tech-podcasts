@@ -56,6 +56,7 @@ Podcast Categories
 ### Vue Podcasts
 
 [Views on Vue](https://twitter.com/viewsonvue)<br>
+[Enjoy The Vue](https://enjoythevue.io/)<br>
 
 ### General Technology & Web Development Podcasts
 
