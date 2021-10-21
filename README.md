@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the This Dot Podcasts repository, here we you'll find a wide variety of tech-based podcasts.
+Welcome to the This Dot Podcasts repository, here you'll find a wide variety of tech-based podcasts.
 
 This repository serves as a collection of general and specific podcasts all related to technology and development.
 
