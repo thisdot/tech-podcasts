@@ -81,6 +81,7 @@ Podcast Categories
 [Scott Hanselman’s Tech Podcast](https://twitter.com/hanselminutes?lang=en)<br>
 [Shop Talk Show](https://shoptalkshow.com/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
+[Software Engineering Daily](https://www.indiehackers.com)<br>
 [Software Engineering Unlocked Podcast](https://twitter.com/se_unlocked)<br>
 [Start Here: Web Development](https://podcasts.apple.com/us/podcast/start-here-web-development/id898026456)<br>
 [Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing/youve-got-apple-questions-weve-got-answers/bc9a5d51-6d60-4167-91f7-ddc37a43bb61)<br>
