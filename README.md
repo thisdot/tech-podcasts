@@ -71,6 +71,7 @@ Podcast Categories
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Developer Tea Podcast](https://twitter.com/DeveloperTea) <br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
+[Dev Journey](https://devjourney.info)<br>
 [devMode.fm podcast](https://twitter.com/devmodefm)<br>
 [Dev Theory - A Web Development Podcast](https://www.audible.com/pd/Podcast/B08JJLK1NL)<br>
 [Indie Hackers](https://www.indiehackers.com)<br>
