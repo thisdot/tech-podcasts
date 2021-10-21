@@ -82,6 +82,7 @@ Podcast Categories
 [Software Engineering Unlocked Podcast](https://twitter.com/se_unlocked)<br>
 [Start Here: Web Development](https://podcasts.apple.com/us/podcast/start-here-web-development/id898026456)<br>
 [Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing/youve-got-apple-questions-weve-got-answers/bc9a5d51-6d60-4167-91f7-ddc37a43bb61)<br>
+[Tech Jr Podcast](https://techjr.dev/)</br>
 [The Bike Shed](https://twitter.com/_bikeshed)<br>
 [The Freelancers Show](https://twitter.com/freelancershow)<br>
 [The Virtual Coffee Podcast](https://virtualcoffee.io/podcast/)<br>
@@ -91,6 +92,7 @@ Podcast Categories
 [We Belong Here](https://webelongpodcast.com/)<br>
 [Web of Tomorrow](https://twitter.com/weboftomorrowfm)<br>
 [Web Platform Podcast](https://twitter.com/intent/user?screen_name=TheWebPlatform)<br>
+
 
 [table of contents](#toc)
 
