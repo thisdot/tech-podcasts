@@ -73,6 +73,7 @@ Podcast Categories
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
 [devMode.fm podcast](https://twitter.com/devmodefm)<br>
 [Dev Theory - A Web Development Podcast](https://www.audible.com/pd/Podcast/B08JJLK1NL)<br>
+[Indie Hackers](https://www.indiehackers.com)<br>
 [Into the Bytecode](https://share.transistor.fm/s/0f9aa81e)<br>
 [Learn to Code With Me](https://learntocodewith.me/)<br>
 [PodRocket](https://podrocket.logrocket.com/)<br>
