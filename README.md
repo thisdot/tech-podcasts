@@ -130,3 +130,9 @@ Podcast Categories
 [Unchained](https://itunes.apple.com/us/podcast/id1123922160)<br>
 
 [table of contents](#toc)
+
+### System Design Podcasts
+
+[System Design by Wes and Kevin](https://www.listennotes.com/podcasts/system-design-wes-and-kevin-6kzm2V0Q9dn)<br>
+
+[table of contents](#toc)
