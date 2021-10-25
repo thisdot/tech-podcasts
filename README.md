@@ -71,8 +71,10 @@ Podcast Categories
 [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)<br>
 [Developer Tea Podcast](https://twitter.com/DeveloperTea) <br>
 [Dev Influencers](https://devchat.tv/show/dev-influencers/)<br>
+[Dev Journey](https://devjourney.info)<br>
 [devMode.fm podcast](https://twitter.com/devmodefm)<br>
 [Dev Theory - A Web Development Podcast](https://www.audible.com/pd/Podcast/B08JJLK1NL)<br>
+[Indie Hackers](https://www.indiehackers.com)<br>
 [Into the Bytecode](https://share.transistor.fm/s/0f9aa81e)<br>
 [Learn to Code With Me](https://learntocodewith.me/)<br>
 [PodRocket](https://podrocket.logrocket.com/)<br>
@@ -80,6 +82,7 @@ Podcast Categories
 [Scott Hanselman’s Tech Podcast](https://twitter.com/hanselminutes?lang=en)<br>
 [Shop Talk Show](https://shoptalkshow.com/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
+[Software Engineering Daily](https://www.indiehackers.com)<br>
 [Software Engineering Unlocked Podcast](https://twitter.com/se_unlocked)<br>
 [Start Here: Web Development](https://podcasts.apple.com/us/podcast/start-here-web-development/id898026456)<br>
 [Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing/youve-got-apple-questions-weve-got-answers/bc9a5d51-6d60-4167-91f7-ddc37a43bb61)<br>
