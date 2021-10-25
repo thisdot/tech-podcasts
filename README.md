@@ -75,10 +75,12 @@ Podcast Categories
 [Dev Theory - A Web Development Podcast](https://www.audible.com/pd/Podcast/B08JJLK1NL)<br>
 [Indie Hackers](https://www.indiehackers.com)<br>
 [Into the Bytecode](https://share.transistor.fm/s/0f9aa81e)<br>
+[The Laravel Podcast](https://https://www.laravelpodcast.com/)<br>
 [Learn to Code With Me](https://learntocodewith.me/)<br>
 [PodRocket](https://podrocket.logrocket.com/)<br>
 [Running in Production](https://runninginproduction.com/podcast/)<br>
 [Scott Hanselman’s Tech Podcast](https://twitter.com/hanselminutes?lang=en)<br>
+[Screaming in the Cloud](https://podcasts.apple.com/us/podcast/screaming-in-the-cloud/id1361244178)<br>
 [Shop Talk Show](https://shoptalkshow.com/)<br>
 [Smashing Podcast](https://twitter.com/smashingmag)<br>
 [Software Engineering Daily](https://www.indiehackers.com)<br>
