@@ -122,6 +122,7 @@ We look forward to seeing what you're listening to.
 - [PHPRoundtable](https://twitter.com/PHPRoundtable)
 - [Remote Ruby](https://remoteruby.transistor.fm/episodes)
 - [Ruby Rogues](https://twitter.com/rubyrogues)
+- [Talk Python To Me](https://talkpython.fm)
 - [The Ruby on Rails Podcast](https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 
