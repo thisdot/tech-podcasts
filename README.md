@@ -105,6 +105,10 @@ We look forward to seeing what you're listening to.
 - [We Belong Here](https://webelongpodcast.com/)
 - [Web of Tomorrow](https://twitter.com/weboftomorrowfm)
 - [Web Platform Podcast](https://twitter.com/intent/user?screen_name=TheWebPlatform)
+- [Cloudcast](https://www.thecloudcast.net/)
+- [Screaming into the Cloud](https://www.stitcher.com/show/screaming-in-the-cloud)
+- [Serverless Chats](https://www.serverlesschats.com/)
+
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -134,6 +138,8 @@ We look forward to seeing what you're listening to.
 - [Ladybug Podcast](https://twitter.com/LadybugPodcast)
 - [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)
 - [Women In Tech Show](https://thewomenintechshow.com/)
+- [Women In Tech SEO Podcast](https://www.womenintechseo.com/podcast/)
+- [Women In Tech Podcast hosted by Espree Devora](https://podcasts.apple.com/us/podcast/women-in-tech-podcast-hosted-by-espree-devora/id1171499482)
 
 [Back to Table of Contents](#table-of-contents)
 
