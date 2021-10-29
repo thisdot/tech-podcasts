@@ -26,7 +26,6 @@ We look forward to seeing what you're listening to.
     - [Blockchain Technology Podcasts](#blockchain-technology-podcasts)
     - [System Design Podcasts](#SystemDesign)
 
-
 ## Podcasts
 
 ### General JavaScript Podcasts
@@ -46,7 +45,6 @@ We look forward to seeing what you're listening to.
 - [JS Party Podcast](https://changelog.com/jsparty)
 
 [Back to Table of Contents](#table-of-contents)
-
 
 ### React Podcasts
 
@@ -108,7 +106,6 @@ We look forward to seeing what you're listening to.
 
 [Back to Table of Contents](#table-of-contents)
 
-
 ### Other Technology-Specific Podcasts
 
 - [AdventuresInDotNet](https://twitter.com/dotNET_Podcast)
@@ -130,10 +127,11 @@ We look forward to seeing what you're listening to.
 
 ### Women in Tech Podcasts
 
-- [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast)
-- [Ladybug Podcast](https://twitter.com/LadybugPodcast)
+- [CTRL+CLICK CAST](https://twitter.com/ctrlclickcast/)
+- [getWITit](https://getwitit.org/podcasts/)
+- [Ladybug Podcast](https://twitter.com/LadybugPodcast/)
 - [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)
-- [Women In Tech Show](https://thewomenintechshow.com/)
+- [Women In Tech](https://thewomenintechshow.com/)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -145,7 +143,6 @@ We look forward to seeing what you're listening to.
 - [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
 
 [Back to Table of Contents](#table-of-contents)
-
 
 ### System Design Podcasts
 
