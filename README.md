@@ -78,6 +78,7 @@ We look forward to seeing what you're listening to.
 - [Code Chefs](https://twitter.com/codechefsdev)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 - [Coder Radio](https://twitter.com/CoderRadioShow)
+- [Darknet Diaries](https://darknetdiaries.com/)
 - [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)
 - [Developer Tea Podcast](https://twitter.com/DeveloperTea)
 - [Dev Influencers](https://devchat.tv/show/dev-influencers/)
