@@ -20,6 +20,7 @@ We look forward to seeing what you're listening to.
     - [React Podcasts](#react-podcasts)
     - [Angular Podcasts](#angular-podcasts)
     - [Vue Podcasts](#vue-podcasts)
+    - [C++ Podcasts](#cpp-podcasts)
     - [General Technology & Web Development Podcasts](#general-technology--web-development-podcasts)
     - [Other Technology-Specific Podcasts](#other-technology-specific-podcasts)
     - [Women in Tech Podcasts](#women-in-tech-podcasts)
@@ -68,6 +69,13 @@ We look forward to seeing what you're listening to.
 
 [Back to Table of Contents](#table-of-contents)
 
+### C++ Podcasts
+
+- [CppCast](https://cppcast.com/)
+- [cpp.chat](https://cpp.chat/)
+
+[Back to Table of Contents](#table-of-contents)
+
 ### General Technology & Web Development Podcasts
 
 - [Adventures in DevOps](https://twitter.com/DevOpsPodcast)
@@ -107,7 +115,7 @@ We look forward to seeing what you're listening to.
 - [Cloudcast](https://www.thecloudcast.net/)
 - [Screaming into the Cloud](https://www.stitcher.com/show/screaming-in-the-cloud)
 - [Serverless Chats](https://www.serverlesschats.com/)
-
+- [CoRecursive: Coding Stories](https://corecursive.com/)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -127,6 +135,9 @@ We look forward to seeing what you're listening to.
 - [Talk Python To Me](https://talkpython.fm)
 - [The Ruby on Rails Podcast](https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
+- [Two's complement](https://www.twoscomplement.org/)
+- [Algorithms + Data Structures = Programs](https://adspthepodcast.com/)
+- [TLB Hit](https://tlbh.it/)
 
 [Back to Table of Contents](#table-of-contents)
 
