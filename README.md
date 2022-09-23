@@ -81,6 +81,7 @@ We look forward to seeing what you're listening to.
 - [Darknet Diaries](https://darknetdiaries.com/)
 - [Developer Love](https://podcasts.apple.com/us/podcast/developer-love/id1524102185)
 - [Developer Tea Podcast](https://twitter.com/DeveloperTea)
+- [Develop Yourself](https://podtail.com/podcast/develop-yourself/)
 - [Dev Influencers](https://devchat.tv/show/dev-influencers/)
 - [devMode.fm podcast](https://twitter.com/devmodefm)
 - [Dev Theory - A Web Development Podcast](https://www.audible.com/pd/Podcast/B08JJLK1NL)
