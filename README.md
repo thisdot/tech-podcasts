@@ -24,7 +24,6 @@ We look forward to seeing what you're listening to.
     - [Other Technology-Specific Podcasts](#other-technology-specific-podcasts)
     - [Women in Tech Podcasts](#women-in-tech-podcasts)
     - [Blockchain Technology Podcasts](#blockchain-technology-podcasts)
-    - [System Design Podcasts](#SystemDesign)
 
 ## Podcasts
 
@@ -94,6 +93,7 @@ We look forward to seeing what you're listening to.
 - [Smashing Podcast](https://twitter.com/smashingmag)
 - [Software Engineering Unlocked Podcast](https://twitter.com/se_unlocked)
 - [Start Here: Web Development](https://podcasts.apple.com/us/podcast/start-here-web-development/id898026456)
+- [System Design by Wes and Kevin](https://www.listennotes.com/podcasts/system-design-wes-and-kevin-6kzm2V0Q9dn)
 - [Tech News Briefing](https://www.wsj.com/podcasts/tech-news-briefing/youve-got-apple-questions-weve-got-answers/bc9a5d51-6d60-4167-91f7-ddc37a43bb61)
 - [Tech Jr Podcast](https://techjr.dev/)</br>
 - [The Bike Shed](https://twitter.com/_bikeshed)
@@ -108,7 +108,6 @@ We look forward to seeing what you're listening to.
 - [Cloudcast](https://www.thecloudcast.net/)
 - [Screaming into the Cloud](https://www.stitcher.com/show/screaming-in-the-cloud)
 - [Serverless Chats](https://www.serverlesschats.com/)
-
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -152,9 +151,3 @@ We look forward to seeing what you're listening to.
 - [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
 
 [Back to Table of Contents](#table-of-contents)
-
-### System Design Podcasts
-
-[System Design by Wes and Kevin](https://www.listennotes.com/podcasts/system-design-wes-and-kevin-6kzm2V0Q9dn)<br>
-
-[table of contents](#toc)
