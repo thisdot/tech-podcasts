@@ -78,14 +78,17 @@ We look forward to seeing what you're listening to.
   This is a podcast that deals with all things React Native. Previous guests have included Max Metral, Talha Naqvi, and Lizzi Lindboe.
   <br>
 - [React Wednesdays](https://www.telerik.com/react-wednesdays)
-  This podcast explores the latest news and developements in the React world. Previous guests have included Anthony Fu, Mark Erikson and Stefan Baumgartner.
+  This podcast explores the latest news and developments in the React world. Previous guests have included Anthony Fu, Mark Erikson and Stefan Baumgartner.
 
 [Back to Table of Contents](#table-of-contents)
 
 ### Angular Podcasts
 
 - [Angular Air](https://twitter.com/angularair?lang=en)
-- [Adventures In Angular](https://twitter.com/angularpodcast)
+  Host Justin Schwartzenberger talks about all things Angular in this podcast.
+  <br>
+- [Adventures In Angular](https://topenddevs.com/podcasts/adventures-in-angular/)
+  Hosts Charles Max Wood and Subrat Mishra talk about all things Angular in this podcast. Previous guests have included Maina Wycliffe, Stephen Cooper and Tomas Trajan.
 
 [Back to Table of Contents](#table-of-contents)
 
