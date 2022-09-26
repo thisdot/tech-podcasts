@@ -71,8 +71,14 @@ We look forward to seeing what you're listening to.
 ### React Podcasts
 
 - [React Podcast](https://reactpodcast.simplecast.com/)
+  This is a podcast that deals with all things React. Previous guests have included Tim Neutkens, Cassidy Williams and Marcy Sutton.
+  <br>
+
 - [React Native Radio](https://reactnativeradio.com/)
+  This is a podcast that deals with all things React Native. Previous guests have included Max Metral, Talha Naqvi, and Lizzi Lindboe.
+  <br>
 - [React Wednesdays](https://www.telerik.com/react-wednesdays)
+  This podcast explores the latest news and developements in the React world. Previous guests have included Anthony Fu, Mark Erikson and Stefan Baumgartner.
 
 [Back to Table of Contents](#table-of-contents)
 
