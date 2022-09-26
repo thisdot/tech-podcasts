@@ -94,8 +94,11 @@ We look forward to seeing what you're listening to.
 
 ### Vue Podcasts
 
-- [Views on Vue](https://twitter.com/viewsonvue)
+- [Views on Vue](https://topenddevs.com/podcasts/views-on-vue)
+  Host Steve Edwards talks about all things Vue in this podcast. Previous guests have included Fred K. Schott, Alex Vipond, and Daniel Roe.
+  <br>
 - [Enjoy The Vue](https://enjoythevue.io/)
+  This podcast includes panel discussions, and guest interviews discussing the latest news and developments in Vue. Previous guests have included Gift Egwuenu and Oscar Spencer.
 
 [Back to Table of Contents](#table-of-contents)
 
