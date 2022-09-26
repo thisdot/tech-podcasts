@@ -30,18 +30,41 @@ We look forward to seeing what you're listening to.
 ### General JavaScript Podcasts
 
 - [Codepen Radio](https://blog.codepen.io/radio/)
+  This podcast, hosted by the CodePen team, provides insight into what it is like to run small web based software businesses. Previous guests have included Keven Powell, Kristopher Van Sant and Alex Trost.
+  <br>
 - [Front End Happy Hour](https://www.frontendhappyhour.com/)
+  This podcast features a panel of Software Engineers from Netflix, Twitch, & Atlassian discussing everything from Frontend development, JavaScript, and software careers over a casual round of drinks. Previous guests have included Shaundai Person, Shirley Wu and Jesse Tomchak.
+  <br>
 - [JavaScript Air](https://javascriptair.com/)
-- [JavaScript Jabber](https://twitter.com/JSJabber)
-- [JS Party Podcast](https://twitter.com/JSPartyFM)
-- [Modern Web Podcast](https://twitter.com/moderndotweb)
-- [OpenHive.JS](https://anchor.fm/openhivejs)
-- [Syntax](https://twitter.com/syntaxfm)
-- [That's My JAMstack](https://thatsmyjamstack.com/)
-- [The Undefined Podcast](https://twitter.com/theundefinedio?lang=en)
-- [Web Rush](https://twitter.com/web_rush)
-- [The Vanilla Js Podcast](https://vanillajspodcast.com/)
+  This live broadcast podcast covers all things JavaScript including Node.js, React, Ember, Angular and Vue. Previous guests have included Kent C. Dodds, Brendan Eich and Sarah Drasner.
+  <br>
+- [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber//)
+  This podcast covers all things JavaScript including Svelte, React, and SolidJS. Previous guests have included Misko Hevery, Nick Hehr and Peter Hoddie.
+  <br>
 - [JS Party Podcast](https://changelog.com/jsparty)
+  This podcast is a weekly celebration of all this JavaScript and the web. Previous guests have included Josh Goldberg, Jen Looper, and Kent C. Dodds.
+  <br>
+- [Modern Web Podcast](https://modernweb.podbean.com/)
+  Modern Web is a podcast that explores next generation frameworks, standards, and techniques. Previous guests have included James Snell, Evan You, and Paige Niedringhaus.
+  <br>
+- [OpenHive.JS](https://anchor.fm/openhivejs)
+  Hosts James Snell and Matteo Collina talk with key contributors and open source leaders around new developments, challenges and perspectives in JavaScript. Previous guests have included Yoni Goldberg, Laurie Barth, and Liran Tal.
+  <br>
+- [Syntax](https://syntax.fm/)
+  Hosts Wes Bos and Scott Tolinski explore all things web development including TypeScript, Web API's, Deno, CSS, Remix and more.
+  <br>
+- [That's My JAMstack](https://thatsmyjamstack.com/)
+  This podcast includes bite-sized interviews with developers, designers and technologists that belong to the JAMstack community. Previous guests have included Drew Clements, Debbie O'Brien, and Kathleen McMahon.
+  <br>
+- [The Undefined Podcast](https://undefined.fm/)
+  Hosts Jared Palmer and Ken Wheeler explore all things software including Tailwind CSS, AWS, GraphQL and more. Previous guests have included Nader Dabit, Ali Spittel, and Sebastian McKenzie.
+  <br>
+- [Web Rush](https://twitter.com/web_rush)
+  Hosts John Papa, Ward Bell, Craig Shoemaker & Dan Wahlin talk all things web development including Angular, TypeScript, SvelteKit and more. Previous guests have included Ankit Sharma, Santosh Yadav, and Val Neekman.
+  <br>
+- [The Vanilla JS Podcast](https://vanillajspodcast.com/)
+  Host Chris Ferdinandi talks about the complexity of modern front‑end web development and challenges that face developers today.
+  <br>
 
 [Back to Table of Contents](#table-of-contents)
 
