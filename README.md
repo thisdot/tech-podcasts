@@ -50,6 +50,8 @@ We look forward to seeing what you're listening to.
 - [React Podcast](https://reactpodcast.simplecast.com/)
 - [React Native Radio](https://reactnativeradio.com/)
 - [React Wednesdays](https://www.telerik.com/react-wednesdays)
+- [React Native Nerds](https://www.reactnativenerds.com/)
+- [Epic React Podcast](https://epicreact.dev/podcast/kents-career-path-through-web-development/)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -57,6 +59,9 @@ We look forward to seeing what you're listening to.
 
 - [Angular Air](https://twitter.com/angularair?lang=en)
 - [Adventures In Angular](https://twitter.com/angularpodcast)
+- [The Angular Plus Show](https://www.spreaker.com/show/angular-show/)
+- [My Angular Story](https://topenddevs.com/podcasts/my-angular-story/)
+- [ng build --pod](https://ngbuildpod.com/)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -64,6 +69,8 @@ We look forward to seeing what you're listening to.
 
 - [Views on Vue](https://twitter.com/viewsonvue)
 - [Enjoy The Vue](https://enjoythevue.io/)
+- [After Talk by Vue.js Berlin](https://podcasts.apple.com/us/podcast/after-talk-by-vue-js-berlin/id1514370430/)
+- [The Official Vue News](https://vuenews.fireside.fm/?ref=madewithvuejs.com/)
 
 [Back to Table of Contents](#table-of-contents)
 
