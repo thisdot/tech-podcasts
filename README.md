@@ -151,5 +151,7 @@ We look forward to seeing what you're listening to.
 - [Epicenter](https://epicenter.tv/episodes/)
 - [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)
 - [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
+- [CryptoKnights](https://player.fm/series/cryptoknights-top-podcast-on-bitcoin-ethereum-blockchain-crypto-cryptocurrencies)
+- [a16z Podcast](https://future.com/a16z-podcast/)
 
 [Back to Table of Contents](#table-of-contents)
