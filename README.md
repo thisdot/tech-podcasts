@@ -145,6 +145,8 @@ We look forward to seeing what you're listening to.
     > Tech News Briefing is your guide to what people in tech are talking about. Every weekday, we’ll bring you breaking tech news and scoops from the pros at the Wall Street Journal, insight into new innovations and policy debates, tips from our personal tech team, and exclusive interviews with movers and shakers in the industry.
 - [Tech Jr Podcast](https://techjr.dev/)
     > Thinking of pursuing a career as a programmer? Lee Warrick and Edwin Otero explore what it's like to break into the Tech field as junior developers as well as how to stay up-to-date on new technology.
+ - [The BetaKit Podcast Channel](https://open.spotify.com/show/2otNDC2I6ttHSAGfvMZy8o) 
+    > If you read BetaKit, then you’ll definitely want to check out their podcast channel, where they discuss Canadian tech and innovation as well as global tech through a Canadian lens. On the show, you’ll hear in-depth discussions on everything from blockchain to the evolution of the biotech sector.
 - [The Bike Shed](https://twitter.com/_bikeshed)
     > On The Bike Shed, hosts Chris Toomey & Steph Viccari discuss their development experience and challenges at thoughtbot with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 - [The Freelancers Show](https://twitter.com/freelancershow)
