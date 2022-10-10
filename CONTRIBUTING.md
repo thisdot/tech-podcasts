@@ -1,19 +1,19 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to the tech-podcasts repository! We are looking for additional podcasts to add to our expanding list.
+Thank you for your interest in contributing to the Tanmay Tiwari tech-podcasts repository! We are looking for additional podcasts to add to our expanding list.
 
 ## Tech podcast categories
 
-Here are the following categories to contribute to:
+Here are the following categories to contribute to:<br><br><br><br><br><br><br>
 
-- General JavaScript Podcasts
-- React Podcasts
-- Angular Podcasts
-- Vue Podcasts
-- General Technology & Web Development Podcasts
-- Other Technology-Specific Podcasts
-- Women in Tech Podcasts
-- Blockchain Technology Podcasts
+- General JavaScript Podcasts<br><br><br><br><br><br>
+- React Podcasts<br><br><br><br><br>
+- Angular Podcasts<br><br><br><br>
+- Vue Podcasts<br>
+- General Technology & Web Development Podcasts<br>
+- Other Technology-Specific Podcasts<br>
+- Women in Tech Podcasts<br><br><br>
+- Blockchain Technology Podcasts<br>
 
 ## How to contribute
 
