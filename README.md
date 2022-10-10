@@ -1,39 +1,39 @@
-# This Dot Tech Podcasts
+# This Dot Tech Podcasts 
 
 ## Welcome
 
-Welcome to the This Dot Tech Podcasts repository. You'll find a wide variety of tech-based podcasts here.
+Welcome to the This Dot Tanmay Tiwari Tech Podcasts repository. You'll find a wide variety of tech-based podcasts here. <br>
 
-This repository serves as a collection of general and specific podcasts all related to technology and development.
+This repository serves as a collection of general and specific podcasts all related to technology and development.<br>
 
-If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
+If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).<br>
 
-We look forward to seeing what you're listening to.
+We look forward to seeing what you're listening to.<br>
 
 ## Table of Contents
 
-- [This Dot Tech Podcasts](#this-dot-tech-podcasts)
-  - [Welcome](#welcome)
-  - [Table of Contents](#table-of-contents)
-  - [Podcasts](#podcasts)
-    - [General JavaScript Podcasts](#general-javascript-podcasts)
-    - [React Podcasts](#react-podcasts)
-    - [Angular Podcasts](#angular-podcasts)
-    - [Vue Podcasts](#vue-podcasts)
-    - [General Technology & Web Development Podcasts](#general-technology--web-development-podcasts)
-    - [Other Technology-Specific Podcasts](#other-technology-specific-podcasts)
-    - [Women in Tech Podcasts](#women-in-tech-podcasts)
-    - [Blockchain Technology Podcasts](#blockchain-technology-podcasts)
+- [This Dot Tech Podcasts](#this-dot-tech-podcasts)<br>
+  - [Welcome](#welcome)<br>
+  - [Table of Contents](#table-of-contents)<br>
+  - [Podcasts](#podcasts)<br>
+    - [General JavaScript Podcasts](#general-javascript-podcasts)<br>
+    - [React Podcasts](#react-podcasts)<br>
+    - [Angular Podcasts](#angular-podcasts)<br>
+    - [Vue Podcasts](#vue-podcasts)<br>
+    - [General Technology & Web Development Podcasts](#general-technology--web-development-podcasts)<br>
+    - [Other Technology-Specific Podcasts](#other-technology-specific-podcasts)<br>
+    - [Women in Tech Podcasts](#women-in-tech-podcasts)<br>
+    - [Blockchain Technology Podcasts](#blockchain-technology-podcasts)<br>
 
 ## Podcasts
 
 ### General JavaScript Podcasts
 
-- [Codepen Radio](https://blog.codepen.io/radio/)
-    > A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
-- [Front End Happy Hour](https://www.frontendhappyhour.com/)
-    > A software engineering podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about Frontend, JavaScript, and career development.
-- [JavaScript Air](https://javascriptair.com/)
+- [Codepen Radio](https://blog.codepen.io/radio/)<br>
+    > A podcast all about what it's like running a small web software business. The good, the bad, and the ugly.<br>
+- [Front End Happy Hour](https://www.frontendhappyhour.com/)<br>
+    > A software engineering podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about Frontend, JavaScript, and career development.<br>
+- [JavaScript Air](https://javascriptair.com/)<br>
     > The live broadcast podcast all about JavaScript.
 - [JavaScript Jabber](https://twitter.com/JSJabber)
     > A weekly discussion by top-end JavaScript developers on the technology and skills needed to level up on your JavaScript journey.
@@ -246,3 +246,4 @@ We look forward to seeing what you're listening to.
     > The a16z Podcast is the go-to place for discussions about innovation as technology changes the way we all work, live, and play.
 
 [Back to Table of Contents](#table-of-contents)
+<br>
