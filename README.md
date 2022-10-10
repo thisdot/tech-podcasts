@@ -173,6 +173,14 @@ We look forward to seeing what you're listening to.
     > Every week, listen to host Corey Quinn interview domain experts in the world of Cloud Computing to discuss AWS, GCP, Azure, Oracle Cloud, and how businesses are coming to think about the Cloud.
 - [Serverless Chats](https://www.serverlesschats.com/)
     > Serverless Chats is a podcast that geeks out on everything serverless. Join Jeremy Daly and Rebecca Marshburn as they chat with a special guest each week.
+- [Smashing Security](https://www.smashingsecurity.com/)
+    > Smashing Security - A helpful and hilarious take on the week's tech SNAFUs. Computer security industry veterans Graham Cluley and Carole Theriault chat with guests about cybercrime, hacking, and online privacy.
+- [Open Source Cafe](https://www.commclassroom.org/podcast)
+    > The Open Source Cafe is a show that highlights the stories of some of the amazing community leaders and members. Learn from their experiences and get mentored on your journey by folks from around the world. Learn from the experiences of some of the brightest minds in the community and get mentored for open source, cloud native, career, learnings, and more.
+- [Darknet Diaries](https://darknetdiaries.com/)
+    > This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. This is Darknet Diaries.
+- [Security Now](https://twit.tv/shows/security-now)
+    > Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of SpinRite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.
 
 [Back to Table of Contents](#table-of-contents)
 
