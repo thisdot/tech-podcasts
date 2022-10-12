@@ -37,8 +37,6 @@ We look forward to seeing what you're listening to.
     > The live broadcast podcast all about JavaScript.
 - [JavaScript Jabber](https://twitter.com/JSJabber)
     > A weekly discussion by top-end JavaScript developers on the technology and skills needed to level up on your JavaScript journey.
-- [JS Party Podcast](https://twitter.com/JSPartyFM)
-    > Your weekly celebration of JavaScript and the web.
 - [JS Party Podcast](https://changelog.com/jsparty)
     > Your weekly celebration of JavaScript and the web.
 - [Modern Web Podcast](https://twitter.com/moderndotweb)
@@ -109,8 +107,6 @@ We look forward to seeing what you're listening to.
     > The CodeNewbie podcast was born from CodeNewbie, an organization which fosters a supportive, international community of people learning to code. Each season, host Saron Yitbarek delivers stories and interviews from people of diverse backgrounds and expertise about their coding journeys, as well as beginner friendly discussions about the tech you should know about.
 - [Darknet Diaries](https://darknetdiaries.com/)
     > Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime.
-- [Darknet Diaries](https://darknetdiaries.com/)
-    > This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. This is Darknet Diaries.
 - [Dev Influencers](https://topenddevs.com/podcasts/dev-influencers)
     > Learn to build an audience and create content that helps them advance as developers, technologists, and people.
 - [Dev Theory - A Web Development Podcast](https://www.audible.com/pd/Podcast/B08JJLK1NL)
