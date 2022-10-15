@@ -52,7 +52,7 @@ We look forward to seeing what you're listening to.
 - [The Vanilla Js Podcast](https://vanillajspodcast.com/)
     > A show about JavaScript for people who hate the complexity of modern front‑end web development.
 - [Web Rush](https://twitter.com/web_rush)
-    > Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. 
+    > Web Rush is a weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -155,7 +155,7 @@ We look forward to seeing what you're listening to.
     > Tech News Briefing is your guide to what people in tech are talking about. Every weekday, we’ll bring you breaking tech news and scoops from the pros at the Wall Street Journal, insight into new innovations and policy debates, tips from our personal tech team, and exclusive interviews with movers and shakers in the industry.
 - [Tech Jr Podcast](https://techjr.dev/)
     > Thinking of pursuing a career as a programmer? Lee Warrick and Edwin Otero explore what it's like to break into the Tech field as junior developers as well as how to stay up-to-date on new technology.
-- [The BetaKit Podcast Channel](https://open.spotify.com/show/2otNDC2I6ttHSAGfvMZy8o) 
+- [The BetaKit Podcast Channel](https://open.spotify.com/show/2otNDC2I6ttHSAGfvMZy8o)
     > If you read BetaKit, then you’ll definitely want to check out their podcast channel, where they discuss Canadian tech and innovation as well as global tech through a Canadian lens. On the show, you’ll hear in-depth discussions on everything from blockchain to the evolution of the biotech sector.
 - [The Bike Shed](https://twitter.com/_bikeshed)
     > On The Bike Shed, hosts Chris Toomey & Steph Viccari discuss their development experience and challenges at thoughtbot with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
@@ -200,6 +200,8 @@ We look forward to seeing what you're listening to.
     > Linear Digressions is a podcast about machine learning and data science. In each episode, your hosts explore machine learning and data science through interesting, and often very unusual applications.
 - [PHPRoundtable](https://twitter.com/PHPRoundtable)
     > The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
+- [PHPUgly](https://phpugly.simplecast.com/)
+    > A podcast of web developers discussing new technologies, problems in the day to day life of a PHP developer, sharing their experiences, and just talking about anything geek or tech related that's interesting
 - [Remote Ruby](https://remoteruby.transistor.fm/episodes)
     > Three Rubyists having conversations and interviewing others about Ruby and web development.
 - [Ruby Rogues](https://twitter.com/rubyrogues)
@@ -209,7 +211,7 @@ We look forward to seeing what you're listening to.
 - [Talk Python To Me](https://talkpython.fm)
     > Talk Python to Me is a weekly podcast hosted by developer and entrepreneur Michael Kennedy. We dive deep into the popular packages and software developers, data scientists, and incredible hobbyists doing amazing things with Python.
 - [The Ruby on Rails Podcast](https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158)
-    > The Ruby on Rails Podcast is a weekly conversation about Ruby on Rails, open source software, and the programming profession. 
+    > The Ruby on Rails Podcast is a weekly conversation about Ruby on Rails, open source software, and the programming profession.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -241,12 +243,12 @@ We look forward to seeing what you're listening to.
 - [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
     > Blockchain Innovation is where I interview the brightest minds in blockchain and cryptocurrency – every Tuesday – to discuss present and future applications of decentralized technologies.
 - [CryptoKnights](https://player.fm/series/cryptoknights-top-podcast-on-bitcoin-ethereum-blockchain-crypto-cryptocurrencies)
-    > Cryptoknights podcast, is one of the fastest growing media production companies that produces Bitcoin and Blockchain podcasts that are ranked at the top in the world. 
+    > Cryptoknights podcast, is one of the fastest growing media production companies that produces Bitcoin and Blockchain podcasts that are ranked at the top in the world.
 - [Epicenter](https://epicenter.tv/episodes/)
     > Epicenter brings you in-depth conversations about the technical, economic and social implications of cryptocurrencies and blockchain technologies.
 - [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)
     > This podcast features the most knowledgeable and articulate podcast host on blockchain. Arthur Falls is extremely knowledgeable, has fantastic guests in the blockchain space, and provides a fantastic primer on the technology that will affect every aspect of our lives in the next ten years.
 - [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
-    >  In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money. 
+    >  In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money.
 
 [Back to Table of Contents](#table-of-contents)
