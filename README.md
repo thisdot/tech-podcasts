@@ -125,6 +125,8 @@ We look forward to seeing what you're listening to.
     > A weekly podcast about design, technology, programming and everything else.
 - [Learn to Code With Me](https://learntocodewith.me/)
     > The Learn to Code With Me podcast, created by Laurence Bradford, is for aspiring techies and self-taught coders looking to transition into the tech industry.
+- [Nick's Cuts](https://nickscuts.buzzsprout.com/2065897/)
+    > A podcast featuring conversations that front end dev Nick Taylor has had on his Twitch stream with awesome people.
 - [Open Source Cafe](https://www.commclassroom.org/podcast)
     > The Open Source Cafe is a show that highlights the stories of some of the amazing community leaders and members. Learn from their experiences and get mentored on your journey by folks from around the world. Learn from the experiences of some of the brightest minds in the community and get mentored for open source, cloud native, career, learnings, and more.
 - [PodRocket](https://podrocket.logrocket.com/)
