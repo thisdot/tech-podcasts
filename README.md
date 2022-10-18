@@ -60,6 +60,8 @@ We look forward to seeing what you're listening to.
 
 - [React Native Radio](https://reactnativeradio.com/)
     > Exploring React Native Together.
+- [React Native Podcast](https://www.callstack.com/podcast-react-native-show)
+    > What we love about the React and React Native ecosystem is the fact that it’s continuously evolving. It keeps pushing us to constantly search for new solutions, develop our skills and stay up to date with what’s going on in the community. That’s why we love discussing, the possible future of mobile and web development, current and possible future trends in React and React Native development, most common issues and many, many more.
 - [React Podcast](https://reactpodcast.simplecast.com/)
     > Conversations about React with your favorite developers.
 - [React Wednesdays](https://www.telerik.com/react-wednesdays)
