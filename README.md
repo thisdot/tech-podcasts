@@ -133,6 +133,8 @@ We look forward to seeing what you're listening to.
     > The Open Source Cafe is a show that highlights the stories of some of the amazing community leaders and members. Learn from their experiences and get mentored on your journey by folks from around the world. Learn from the experiences of some of the brightest minds in the community and get mentored for open source, cloud native, career, learnings, and more.
 - [PodRocket](https://podrocket.logrocket.com/)
     > PodRocket covers everything you need to know about frontend web development on a weekly basis. Join LogRocket cofounder Ben Edelstein, the LogRocket engineering team, and more, as they interview experienced developers about all the libraries, frameworks, and tech industry issues they deal with every day.
+- [Reply All](https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4)
+    > Reply All is “a podcast about the internet that is actually an unfailingly original exploration of modern life and how to survive it,” so you can rest assured this show discussing the wild, wild west of the internet from all angles will deliver on all your podcast wishes and more
 - [Running in Production](https://runninginproduction.com/podcast/)
     > Hear about how folks are running their web apps in production. We'll cover tech choices, why they chose them, lessons learned and more.
 - [Scott Hanselman’s Tech Podcast](https://twitter.com/hanselminutes?lang=en)
