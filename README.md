@@ -256,5 +256,9 @@ We look forward to seeing what you're listening to.
     > This podcast features the most knowledgeable and articulate podcast host on blockchain. Arthur Falls is extremely knowledgeable, has fantastic guests in the blockchain space, and provides a fantastic primer on the technology that will affect every aspect of our lives in the next ten years.
 - [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
     >  In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money.
+- [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network/)
+    >  The top stories and best shows in the blockchain world, delivered daily from the team at CoinDesk.
+- [The Blockchain.com Podcast](https://www.blockchain.com/podcast)
+    >  The official podcast of Blockchain.com, bringing you some of the greatest conversations in cryptocurrency. Hosted by Blockchain.com Co-Founder and Vice Chairman Nic Cary.
 
 [Back to Table of Contents](#table-of-contents)
