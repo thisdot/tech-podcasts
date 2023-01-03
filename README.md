@@ -248,17 +248,17 @@ We look forward to seeing what you're listening to.
     > The a16z Podcast is the go-to place for discussions about innovation as technology changes the way we all work, live, and play.
 - [Blockchain Innovation](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
     > Blockchain Innovation is where I interview the brightest minds in blockchain and cryptocurrency – every Tuesday – to discuss present and future applications of decentralized technologies.
+- [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network/)
+    >  The top stories and best shows in the blockchain world, delivered daily from the team at CoinDesk.
 - [CryptoKnights](https://player.fm/series/cryptoknights-top-podcast-on-bitcoin-ethereum-blockchain-crypto-cryptocurrencies)
     > Cryptoknights podcast, is one of the fastest growing media production companies that produces Bitcoin and Blockchain podcasts that are ranked at the top in the world.
 - [Epicenter](https://epicenter.tv/episodes/)
     > Epicenter brings you in-depth conversations about the technical, economic and social implications of cryptocurrencies and blockchain technologies.
+- [The Blockchain.com Podcast](https://www.blockchain.com/podcast)
+    >  The official podcast of Blockchain.com, bringing you some of the greatest conversations in cryptocurrency. Hosted by Blockchain.com Co-Founder and Vice Chairman Nic Cary.
 - [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)
     > This podcast features the most knowledgeable and articulate podcast host on blockchain. Arthur Falls is extremely knowledgeable, has fantastic guests in the blockchain space, and provides a fantastic primer on the technology that will affect every aspect of our lives in the next ten years.
 - [Unchained](https://itunes.apple.com/us/podcast/id1123922160)
     >  In this podcast, host Laura Shin, an independent journalist covering all things crypto, talks with industry pioneers about how crypto assets and blockchains will change the way we earn, spend and invest our money.
-- [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network/)
-    >  The top stories and best shows in the blockchain world, delivered daily from the team at CoinDesk.
-- [The Blockchain.com Podcast](https://www.blockchain.com/podcast)
-    >  The official podcast of Blockchain.com, bringing you some of the greatest conversations in cryptocurrency. Hosted by Blockchain.com Co-Founder and Vice Chairman Nic Cary.
 
 [Back to Table of Contents](#table-of-contents)
